@@ -1,0 +1,24 @@
+
+
+body
+{
+    background-color: #0F172A;
+    color: #E2E8F0;
+}
+
+h2
+{
+    color: #38BDF8;
+}
+
+input[type="button"]
+{
+    background-color: #2563EB;
+    color: white;
+}
+
+input[type="radio"]
+{
+    accent-color: #ed9703f3;
+}
+
